@@ -1,0 +1,20 @@
+• CSS Transition
+CSS Transition adalah Efek Transisi yang memungkinkan sebuah elemen berubah secara bertahap dari satu gaya ke yang lain. Fungsi dari Efek Transisi ini adalah untuk membuat animasi pada hover, dimana saat kursor kita arahkan pada elemen yang mempunyai fungsi hover maka elemen tersebut akan secara bertahap berubah gaya.
+• Sass
+SASS adalah sebuah bahasa pra-prosesor (preprocessor) untuk CSS.
+SASS bukanlah bahasa pemrograman, SASS adalah bahasa yang akan membuat CSS.
+SASS memberikan fitur yang tidak dimiliki CSS seperti variabel, nesting, mixins, inheritance, dan lain-lain.
+Fitur-fitur ini akan membuat kita bisa menulis kode CSS yang lebih rapi dan bersih dan juga menghindari penulisan kode yang berulang.
+• Boostrap
+Boostrap adalah library framework CSS yamg dibuat khusus untuk bagian pengembangan front end dari sebuah website. Pemakaian boostrap dikalangan programmer cukup terkenal karena lebih memudah kan dalam membuat tampilan website hanya dengan menambahkan class-class tertentu.
+• Document object model
+DOM adalah kumpulan cara bagi programmer untuk ‘memanipulasi’ apapun yang tampil dalam sebuah halaman web. DOM itu tidak terikat dengan JavaScript, dan sepenuhnya bukan bagian dari JavaScript. DOM yang sama bisa juga diakses dengan bahasa client-side lain seperti JScript.
+Tag atau element yang ada di dalam HTML diatur di dalam DOM. Dengan menggunakan JavaScript, kita bisa memanipulasi seluruh tag HTML ini.
+• Javascrpit object notation
+JSON adalah sebuah format data yang digunakan untuk pertukaran dan penyimpanan data. JSON merupakan bagian dari Javascript. JSON bisa dibaca dengan berbagai macam bahasa pemrograman seperti C, C++, C#, Java, Javascript Perl, Python, dan banyak lagi.
+Hal ini membuat JSON menjadi bahasa yang ideal untuk perturakan data antar aplikasi.
+Kalau dibandingkan dengan XML, JSON lebih sederhana dan mudah dibaca.
+• Github
+GitHub adalah manajemen proyek dan sistem versioning code sekaligus platform jaringan sosial yang dirancang khusus bagi para developer. Dengan platform ini, kita bisa bekerja bersama-sama dengan rekan dari berbagai belahan dunia, merencanakan proyek, dan bahkan tracking (melacak) pekerjaan Anda.
+• Domain
+Domain adalah nama atau alamat dari suatu website. Keberadaan domain ini juga tidak kalah penting jika dibandingkan dengan Hosting. Tanpa domain, website tidak akan memiliki nama dan tak ada orang yang akan bisa mengakses sebuah website tanpa domain.
